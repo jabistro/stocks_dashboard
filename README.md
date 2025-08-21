@@ -2,6 +2,9 @@
 
 A modern, responsive stock price dashboard built with React, TypeScript, and Tailwind CSS. Features real-time stock data, interactive charts, and comprehensive table views.
 
+## 🚀 Live Demo
+**<a href="https://jabistro.github.io/stocks_dashboard" target="_blank">View Live Application →</a>**
+
 ## 📸 Screenshots
 
 ### Table View
